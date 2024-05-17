@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["ʙᴇɴ ᴋᴀʏɪ'ʏᴀ ᴀɪᴛɪᴍ","لا إله إلا الله محمد رسول الله"];
 
 
 let currentIndex = 0;
