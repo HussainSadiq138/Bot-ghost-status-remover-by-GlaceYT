@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["ʙᴇɴ ᴋᴀʏɪ'ʏᴀ ᴀɪᴛɪᴍ","لا إله إلا الله محمد رسول الله"];
+const statusMessages = ["Long Live UIB, لا إله إلا الله محمد رسول الله"];
 
 
 let currentIndex = 0;
